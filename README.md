@@ -11,6 +11,7 @@ Web-Flasher
 https://bitaxeorg.github.io/bitaxe-web-flasher/
 
 -----------------------------------
+Stratum URL:
 
 public-pool.io
 
