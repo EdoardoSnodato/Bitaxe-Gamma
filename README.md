@@ -5,6 +5,7 @@ Bitaxe Gamma monta un chip BM1370 (15 J/TH di efficienza), utilizzato su S21PRO 
 
 First set-up:
 https://www.youtube.com/watch?v=G5dxcaYgfkU&t=90
+
 https://www.youtube.com/watch?v=mRA61fHI5Kc&t=480
 
 Web-Flasher 
