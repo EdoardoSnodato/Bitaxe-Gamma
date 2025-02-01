@@ -7,3 +7,6 @@ S21PRO ha 3 hashboard, ognuna con 65 chip, per un totale di 195 chip.
 
 First set-up:
 https://www.youtube.com/watch?v=mRA61fHI5Kc&t=480
+
+Web-Flasher 
+https://bitaxeorg.github.io/bitaxe-web-flasher/
