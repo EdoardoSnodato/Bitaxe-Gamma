@@ -23,4 +23,3 @@ Stratum Password: x
 frequency 485 (default)
 
 core voltage 1200 (default)
------------------------------------
