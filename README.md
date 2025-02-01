@@ -10,3 +10,11 @@ https://www.youtube.com/watch?v=mRA61fHI5Kc&t=480
 
 Web-Flasher 
 https://bitaxeorg.github.io/bitaxe-web-flasher/
+
+
+Stratum URL: mine.ocean.xyz
+Stratum Port: 3334
+Stratum User:(indirizzobtc).bitaxe
+Stratum Password: x
+frequency 485 (default)
+core voltage 1200 (default)
