@@ -13,6 +13,7 @@ https://bitaxeorg.github.io/bitaxe-web-flasher/
 -----------------------------------
 
 public-pool.io
+
 solo.ckpool.org
 
 -----------------------------------
