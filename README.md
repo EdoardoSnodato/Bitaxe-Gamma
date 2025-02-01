@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=mRA61fHI5Kc&t=480
 Web-Flasher 
 https://bitaxeorg.github.io/bitaxe-web-flasher/
 
+-----------------------------------
+
+public-pool.io
+solo.ckpool.org
 
 -----------------------------------
 Stratum URL: mine.ocean.xyz
