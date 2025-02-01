@@ -1,4 +1,4 @@
-# Bitaxe-Gamma
+# Bitaxe
 Sito ufficiale: https://bitaxe.org/
 
 Bitaxe Gamma monta un chip BM1370, utilizzato su S21PRO.
