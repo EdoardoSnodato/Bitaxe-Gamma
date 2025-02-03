@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=mRA61fHI5Kc&t=480
 Web-Flasher 
 https://bitaxeorg.github.io/bitaxe-web-flasher/
 
+Per vedere dispositivi online
+https://web.public-pool.io/#/
+
 -----------------------------------
 Stratum URL:
 
