@@ -8,6 +8,10 @@ https://www.youtube.com/watch?v=G5dxcaYgfkU&t=90
 
 https://www.youtube.com/watch?v=mRA61fHI5Kc&t=480
 
+# Aggiornare dispositivo
+https://github.com/skot/ESP-Miner/releases/tag/v2.6.0
+Scaricare file esp-miner.bin e www.bin
+
 Web-Flasher 
 https://bitaxeorg.github.io/bitaxe-web-flasher/
 
